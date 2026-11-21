@@ -22,4 +22,4 @@ DSA Bootcamp DIY – Top Performer Initiative.
 - Heaps
 
 ## Progress
-Problems Solved: 26 / 150
+Problems Solved: 31 / 150
